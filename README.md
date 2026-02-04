@@ -34,21 +34,6 @@ List of subjects
 
 Todos for a selected subject
 
-Project Structure
-
-StudyPlanner/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/yourpackage/
-│   │   │   │   ├── MainActivity.kt        # Displays list of subjects
-│   │   │   │   ├── TodoActivity.kt        # Displays todos for a subject
-│   │   │   │   └── ...other classes...
-│   │   │   └── res/
-│   │   │       ├── layout/                # XML layouts
-│   │   │       ├── drawable/              # Icons, images
-│   │   │       └── values/                # Colors, strings, styles
-└── build.gradle
 
 How to Run
 
