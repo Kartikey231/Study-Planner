@@ -26,9 +26,8 @@ RecyclerView – For displaying lists of subjects and todos
 
 SharedPreferences / Local Storage – (Optional, if used to save data locally)
 
-Screenshots
+Screen Recording- ![Study Planner Demo GIf](https://github.com/user-attachments/assets/430f9284-2ea8-4a01-955c-a6dbf78a5dd6)
 
-(Add screenshots here to showcase your app’s UI)
 
 List of subjects
 
